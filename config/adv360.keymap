@@ -79,11 +79,11 @@
 
         layer_Programming {
             bindings = <
-          &trans     &trans                &trans            &trans          &trans             &trans                   &trans                                                                &trans            &trans             &trans             &trans                 &trans    &trans  &trans
-          &trans     &trans                &trans            &trans          &trans             &trans                   &trans                                                                &trans        &kp K_MUTE  &kp C_VOLUME_DOWN    &kp C_VOLUME_UP                 &trans    &trans  &trans
- &kp C_AL_LOGOFF  &kp TILDE  &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp DOUBLE_QUOTES                   &trans      &tog 1  &kp LALT                  &kp LGUI     &tog 0     &trans  &kp SINGLE_QUOTE    &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp RIGHT_PARENTHESIS  &kp SEMI  &trans
-          &trans     &trans                &trans            &trans          &trans             &trans                                         &trans                    &trans                                  &trans          &kp GRAVE          &kp COMMA                &kp DOT    &trans  &trans
-          &trans     &trans                &trans            &trans          &trans                               &kp BACKSPACE  &kp DELETE    &trans                    &trans  &kp ENTER  &kp SPACE                               &trans             &trans                 &trans    &trans  &trans
+          &trans     &trans                &trans            &trans          &trans             &trans            &trans                                                  &trans            &trans           &trans             &trans                 &trans  &trans  &trans
+          &trans     &trans                &trans            &trans          &trans             &trans            &trans                                                  &trans  &kp SINGLE_QUOTE  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp RIGHT_PARENTHESIS  &trans  &trans
+ &kp C_AL_LOGOFF  &kp TILDE  &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp DOUBLE_QUOTES            &trans  &trans  &trans                  &trans  &trans  &trans            &trans           &trans             &trans                 &trans  &trans  &trans
+          &trans     &trans                &trans            &trans          &trans             &trans                            &trans                  &trans                            &trans        &kp GRAVE             &trans                 &trans  &trans  &trans
+          &trans     &trans                &trans            &trans          &trans                               &trans  &trans  &trans                  &trans  &trans  &trans                             &trans             &trans                 &trans  &trans  &trans
             >;
         };
 
